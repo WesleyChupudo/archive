@@ -3,12 +3,12 @@ Meu nome é BistecaViva. Sou um designer iniciante e tenho interesse em jogos, v
  
 ## Minhas redes (sociais)
 Tenho perfis nas redes sociais que utilizo para postar meus desenhos e outras coisas.
-<div>
-  <button> <a href="https://github.com/BistecaViva">  GitHub </a></button>
-  <button> <a	href="https://www.youtube.com/@BistecaViva"> YouTube  </a> </button>
- <button> <a href="https://bisteca2007.newgrounds.com"> NewGrounds.com </a> </button>
- <button> <a href="https://www.blogger.com/profile/12031296423644826511"> Blog </a></button>
-</div>
+<ul>
+  <li> <a href="https://github.com/BistecaViva">  GitHub </a></li>
+  <li> <a	href="https://www.youtube.com/@BistecaViva"> YouTube  </a> </li>
+ <li> <a href="https://bisteca2007.newgrounds.com"> NewGrounds.com </a> </li>
+ <li> <a href="https://www.blogger.com/profile/12031296423644826511"> Blog </a></li>
+</ul>
 
 ## Meu GitHub
 Eu crei projetos pra o GitHub:
